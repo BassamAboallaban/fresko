@@ -6,7 +6,7 @@
 Central Repository for Fresko IT. Hosts code for Flask web app for Fresko website.
 
 ## Flask Web App
-Main app file is found at [app.py](/app.py). Templates for different web pages are found under [templates/](/templates/). Currently the web app is simplistic with a few pages acting as placeholders. Reservations page is currently not backended by a database as this is a work in progress.
+Main app file is found at [app.py](/app.py). Templates for different web pages are found under [templates/](/templates/). The web app is operational. Reservations page is also back-ended by a database.
 
 ## CI/CD Pipeline
 A GitHub Actions workflow is setup to carry out two jobs:
